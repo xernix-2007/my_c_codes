@@ -1,0 +1,3 @@
+/*write a c program to find a second largest element in an array.
+wap to find duplicate elements in an aray.
+wap to find frequency of each element of an array.*/
